@@ -1,2 +1,12 @@
-# touch_effect.kr
-Touch Effect is a JavaScript library for creating interactive touch-based visual effects. It provides an easy way to add engaging touch animations to your web projects, enhancing user interaction and visual appeal.
+# Touch Effect
+
+## Description
+Touch Effect is a JavaScript library designed to add dynamic touch-based visual effects to your web applications. With minimal setup, you can integrate engaging touch animations that enhance user experience.
+
+## Features
+- Smooth touch animations
+- Customizable effect parameters
+- Easy integration with existing projects
+- Lightweight and efficient
+
+# Happy Coding 😊.
